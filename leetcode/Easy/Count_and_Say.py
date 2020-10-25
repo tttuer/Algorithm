@@ -1,3 +1,7 @@
+'''
+그냥 문제 설명대로 구현 끝
+'''
+
 class Solution:
     def countAndSay(self, n: int) -> str:
         i = 1
